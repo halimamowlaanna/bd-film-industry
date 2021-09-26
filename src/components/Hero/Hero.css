@@ -1,0 +1,14 @@
+.person {
+  background-color: rgb(211, 240, 211);
+  margin: 5px;
+  padding: 10px;
+}
+.person img {
+  width: 200px;
+  height: 200px;
+  border: 1px solid green;
+  border-radius: 50%;
+}
+.info {
+  padding: 5px;
+}

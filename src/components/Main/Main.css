@@ -1,0 +1,8 @@
+.industry-component {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.heroes-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
